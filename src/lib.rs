@@ -88,6 +88,7 @@ mod authenticator_delegate;
 mod device;
 mod helper;
 mod installed;
+mod metadata;
 mod refresh;
 mod service_account;
 mod storage;
